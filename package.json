@@ -35,6 +35,6 @@
     "standard": "^12.0.1"
   },
   "dependencies": {
-    "@pelevesque/is-anagram": "^1.0.0"
+    "@pelevesque/is-anagram": "^1.0.1"
   }
 }
