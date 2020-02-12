@@ -4,7 +4,7 @@
   "description": "Removes and returns anagrams from an array.",
   "main": "index.js",
   "engines": {
-    "node": ">=6.4.0"
+    "node": ">=9.0.0"
   },
   "scripts": {
     "test": "standard && mocha --reporter spec",
