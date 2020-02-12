@@ -1,6 +1,6 @@
 {
   "name": "@pelevesque/remove-anagrams",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Removes and returns anagrams from an array.",
   "main": "index.js",
   "engines": {
