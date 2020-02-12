@@ -131,7 +131,7 @@ const arr = [
   'ElviS',
   'lives', // 0
   'AmwÉ',
-  'evarnv' // 2
+  'earnw' // 2
 ]
 const opts = { canonicalize: true }
 const anagrams = removeAnagrams(arr, opts)
@@ -142,7 +142,7 @@ arr = [
 ]
 anagrams = [
   'lives',
-  'evarnv'
+  'earnw'
 ]
 */
 ```

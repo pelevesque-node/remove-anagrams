@@ -116,7 +116,7 @@ describe('#removeAnagrams()', () => {
       'ElviS',
       'lives', // 0
       'AmwÉ',
-      'evarnv' // 2
+      'earnw' // 2
     ]
     const opts = { canonicalize: true }
     const anagrams = removeAnagrams(arr, opts)
@@ -126,7 +126,7 @@ describe('#removeAnagrams()', () => {
     ]
     const expectedAnagrams = [
       'lives',
-      'evarnv'
+      'earnw'
     ]
     expect(JSON.stringify(arr)).to.equal(JSON.stringify(expectedArr))
     expect(JSON.stringify(anagrams)).to.equal(JSON.stringify(expectedAnagrams))
